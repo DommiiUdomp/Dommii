@@ -9,4 +9,4 @@ It's okay to write code but it's not okay if it's unusable, at least it can be f
 And,
 someone said...“ Code is like humor. When you have to explain it, it’s bad.” 
 
-Have fun with typing!
+Have fun!
